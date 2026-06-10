@@ -4,11 +4,17 @@
 
 This project uses Machine Learning to predict whether a student is likely to be placed based on academic performance, internships, projects, aptitude scores, and placement training.
 
-## Dataset
+## Dataset Source
 
-A public placement prediction dataset containing 10,000 student records.
+The dataset used in this project is the **Placement Prediction Dataset** available on Kaggle.
 
-### Features
+Dataset Link: https://www.kaggle.com/datasets/ruchikakumbhar/placement-prediction-dataset
+
+### About the Dataset
+
+This dataset contains information related to students' academic performance, internships, projects, certifications, aptitude scores, training, and placement outcomes. The objective is to predict whether a student will be placed based on these attributes.
+
+### Dataset Features
 
 * CGPA
 * Internships
@@ -21,9 +27,10 @@ A public placement prediction dataset containing 10,000 student records.
 * SSC Marks
 * HSC Marks
 
-### Target
+### Target Variable
 
 * Placement Status (Placed / Not Placed)
+
 
 ## Technologies Used
 
